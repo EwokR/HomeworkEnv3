@@ -1,24 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2d8636e-6b72-44cd-9f28-7c39d1a345ed" name="Changes" comment="" />
+    <list default="true" id="f2d8636e-6b72-44cd-9f28-7c39d1a345ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongLoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongLoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongLoginException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongLoginException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongLoginException3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongLoginException3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29hJuLYkzqoJsMz01ll7Xf0iA3L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeworkEnv3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,7 +71,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653559609483</updated>
+      <workItem from="1653559611294" duration="1736000" />
+      <workItem from="1653918323223" duration="3229000" />
+      <workItem from="1653923723833" duration="4213000" />
+      <workItem from="1653992311159" duration="13627000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
