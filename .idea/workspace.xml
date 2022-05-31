@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2d8636e-6b72-44cd-9f28-7c39d1a345ed" name="Changes" comment="">
+    <list default="true" id="f2d8636e-6b72-44cd-9f28-7c39d1a345ed" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongLoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongLoginException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongLoginException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongLoginException2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongLoginException3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongLoginException3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrongPasswordException4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -74,8 +72,24 @@
       <workItem from="1653559611294" duration="1736000" />
       <workItem from="1653918323223" duration="3229000" />
       <workItem from="1653923723833" duration="4213000" />
-      <workItem from="1653992311159" duration="13627000" />
+      <workItem from="1653992311159" duration="14020000" />
+      <workItem from="1654023283295" duration="2848000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1654019660684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654019660685</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1654019806372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654019806372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
