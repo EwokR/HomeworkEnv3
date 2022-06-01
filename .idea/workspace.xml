@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2d8636e-6b72-44cd-9f28-7c39d1a345ed" name="Changes" comment="First commit">
+    <list default="true" id="f2d8636e-6b72-44cd-9f28-7c39d1a345ed" name="Changes" comment="Second commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongLoginException2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongLoginException3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrongPasswordException4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +79,8 @@
       <workItem from="1653918323223" duration="3229000" />
       <workItem from="1653923723833" duration="4213000" />
       <workItem from="1653992311159" duration="14020000" />
-      <workItem from="1654023283295" duration="2848000" />
+      <workItem from="1654023283295" duration="3062000" />
+      <workItem from="1654062453242" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1654019660684</created>
@@ -89,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654019806372</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second commit">
+      <created>1654026300390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654026300390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
