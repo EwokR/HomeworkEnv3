@@ -1,6 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        checker("kolbaser", "kolbaser", "12345678903");
+        boolean result = checker("kolbaser_", "kolbaser", "kolbaser");
+        if (result = true) {
+            System.out.println("All correct.");
+        } else {
+            System.out.println("Something wrong.");
+        }
+
     }
 
     public static boolean checker(String login, String password, String confirmPassword) {
@@ -13,29 +19,23 @@ public class Main {
             System.out.println("Passwords do not match or contains forbidden symbols.");
             return false;
         }
-            return true;
-        }
+        return true;
+    }
 
-    public static void check(String login, String password, String confirmPassword) throws WrongPasswordException,  WrongLoginException {
-        if (!password.equals(confirmPassword) ) {
+    public static void check(String login, String password, String confirmPassword) throws WrongPasswordException, WrongLoginException {
+        if (!password.equals(confirmPassword)) {
             throw new WrongPasswordException();
         }
-        if (login.matches("[а-яА-Я]+")) {
+        if (!login.matches("[A-z0-9_]+")) {
             throw new WrongLoginException();
         }
-        if (password.matches("[а-яА-Я]+")) {
-            throw new WrongPasswordException();
-        }
-        if (password.matches("[Pc[^_]]")) {
+        if (!password.matches("[A-z0-9_]+")) {
             throw new WrongPasswordException();
         }
         if (password.length() >= 20) {
             throw new WrongPasswordException();
         }
         if (login.length() > 20) {
-            throw new WrongLoginException();
-        }
-        if (login.matches("[Pc[^_]]")) {
             throw new WrongLoginException();
         }
     }
